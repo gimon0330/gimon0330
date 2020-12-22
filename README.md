@@ -8,4 +8,5 @@
 ### 📩 │ Project ├──────────────────────────────────────────
 > RTbot (SUPPORT SERVER : https://discord.gg/hTZxtbC)
 
-[![TH_PHEC's github stats](https://github-readme-stats.vercel.app/api?username=gimon0330)](https://github.com/anuraghazra/github-readme-stats)
+### 📢 │ STATS ├──────────────────────────────────────────
+> [![TH_PHEC's github stats](https://github-readme-stats.vercel.app/api?username=gimon0330)](https://github.com/anuraghazra/github-readme-stats)
