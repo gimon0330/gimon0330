@@ -4,13 +4,12 @@
 > Learning : HTML5, JS, React
 
 ### 👫 │ 소속 팀 ├───────────────────────────────
-> Infinite Team  
-Github : https://github.com/InfiniteTeam  
-WebPage : https://inft.kr
+> Illusion Studio
+> - 부산일과학고등학교 개발자 스튜디오  
 
 ### 📩 │ Project ├────────────────────────────────
 > RTbot [1500 Servers, 8000 Users]  
-Github : https://github.com/InfiniteTeam/RTBOT
+Github : https://github.com/RTBOT
 
 ### 📢 │ STATS ├─────────────────────────────────
 > [![📊 │ TH_PHEC's github stats](https://github-readme-stats.vercel.app/api?username=gimon0330)](https://github.com/anuraghazra/github-readme-stats)
