@@ -9,7 +9,7 @@
 
 ### 📩 │ Project ├────────────────────────────────
 > RTbot [1500 Servers, 8000 Users]  
-Github : https://github.com/RTBOT
+Github : https://github.com/gimon0330/RTbot
 
 ### 📢 │ STATS ├─────────────────────────────────
 > [![📊 │ TH_PHEC's github stats](https://github-readme-stats.vercel.app/api?username=gimon0330)](https://github.com/anuraghazra/github-readme-stats)
