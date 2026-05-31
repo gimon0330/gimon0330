@@ -1,17 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Kanghyun%20Ahn&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=POSTECH%20CSE%20%7C%20AI%20%26%20Systems%20%7C%20Building%20Things&descSize=18&descAlignY=58&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Ganghyeon%20An&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=POSTECH%20CSE%20%7C%20AI%20%7C%20Systems%20%7C%20Web&descSize=18&descAlignY=58&animation=twinkling" />
+</p>
 
 <div align="center">
 
 ### Hi, I'm Ganghyeon An! 👋
 
-Majoring Computer Science and Engineering at POSTECH as a Undergraduate student  
-And also Double majoring Math at POSTECH  
+Majoring **Computer Science and Engineering** at **POSTECH**  
+Double majoring in **Mathematics** at **POSTECH**  
 Interested in **AI**, **Deep Learning**, **Systems**, and **Web Development**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-gimon0303-181717?style=for-the-badge&logo=github)](https://github.com/gimon0303)
-[![Email](https://img.shields.io/badge/Email-gimon0303%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimon0303@gmail.com)
+<a href="https://github.com/gimon0330">
+  <img src="https://img.shields.io/badge/GitHub-gimon0330-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:gimon0303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gimon0303%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,9 +28,10 @@ Interested in **AI**, **Deep Learning**, **Systems**, and **Web Development**
 <pre>
 const ganghyeon = {
   university: "POSTECH",
-  major: "Computer Science",
+  major: "Computer Science and Engineering",
+  doubleMajor: "Mathematics",
   interests: ["Artificial Intelligence", "Deep Learning", "Web", "Systems"],
-  currentlyLearning: ["PyTorch", "Next.js", "Computer Systems", "Mathematics"],
+  currentlyLearning: ["Python", "Next.js", "Computer Systems", "Mathematics"],
   goal: "Build useful products with solid engineering and AI."
 };
 </pre>
@@ -51,8 +58,8 @@ const ganghyeon = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gimon0303&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimon0303&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gimon0330&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimon0330&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -67,4 +74,6 @@ const ganghyeon = {
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=160&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027" />
+</p>
